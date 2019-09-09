@@ -1,4 +1,4 @@
-# Politech "Tic Tac Toe" Code Challenge
+# "Tic Tac Toe”
 
 ## OOP Version
 
